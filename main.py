@@ -17,7 +17,7 @@ OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 MAX_TOKENS = 512
 
 # Try with local data
-source = "data/2-109_QUY TRÌNH CẬP NHẬT QUY CHẾ TÀI CHÍNH.xlsx"  # document per local path or URL
+source = "2412.09605v1.pdf"  # document per local path or URL
 converter = DocumentConverter()
 result = converter.convert(source)
 

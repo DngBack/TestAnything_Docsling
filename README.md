@@ -6,3 +6,4 @@ Testing performance of Docsling and note greating features.
 - Đang chưa clear là lưu image như thế nào 
 - Test trên: Slide và  Pdf (paper format)
 - Khả năng custom highlevel các step trong parser pipeline
+- Khá chất lượng, chất lượng khá cao
