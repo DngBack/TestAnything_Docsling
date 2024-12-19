@@ -17,11 +17,16 @@ OPENAI_KEY = os.getenv("OPENAI_API_KEY")
 MAX_TOKENS = 512
 
 # Try with local data
-source = "2412.09605v1.pdf"  # document per local path or URL
+source = "data/2-403_HDCV Cung cấp thông tin phạm vi ngoài doanh nghiệp.pdf"  # document per local path or URL
 converter = DocumentConverter()
 result = converter.convert(source)
 
-print(result.document.export_to_markdown())
+markdown_content = result.document.export_to_markdown()
+output_file_path = "2-403_HDCV Cung cấp thông tin phạm vi ngoài doanh nghiệp.txt"  # Đường dẫn tệp xuất ra
+with open(output_file_path, "w", encoding="utf-8") as file:
+    file.write(markdown_content)
+
+print(f"Markdown content has been saved to {output_file_path}")
 # output: ## Docling Technical Report [...]"
 
 # test hybrid chunking

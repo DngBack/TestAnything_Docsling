@@ -1,0 +1,140 @@
+<!-- image -->
+
+## HƯỚNG DẪN CÔNG VIỆC
+
+## Cung cấp thông tin phạm vi ngoài doanh nghiệp
+
+Mã hiệu
+
+2-403
+
+Lần ban hành, sửa đổi
+
+04
+
+Ngày hiệu lực
+
+2022/09/30
+
+## Lịch sử sửa đổi tài liệu
+
+|   No | Mục sửa đổi     | Nội dung sửa đổi                      | Ngày sửa đổi   |   Phiên bản sửa đổi |
+|------|-----------------|---------------------------------------|----------------|---------------------|
+|    1 | Toàn bộ         | Ban hành                              | 2020/04/06     |                  01 |
+|    2 | Toàn bộ         | Cập nhật mã hiệu và sơ đồ tổ chức mới | 2021/08/01     |                  02 |
+|    3 | Toàn bộ         | Cập nhật sơ đồ tổ chức mới            | 2022/02/18     |                  03 |
+|    4 | Quản trị rủi ro | Bổ sung quy định về quản trị rủi ro   | 2022/09/30     |                  04 |
+
+## MỤCLỤC
+
+| I. GIỚI THIỆU                                                               |   3 |
+|-----------------------------------------------------------------------------|-----|
+| 1.1. Mục đích                                                               |   3 |
+| 1.2. Đối tượng áp dụng                                                      |   3 |
+| 1.3. Bộ phận phụ trách                                                      |   3 |
+| II. NỘI DUNG                                                                |   3 |
+| 2.1. Tính trung thực khi thông báo, cung cấp thông tin                      |   3 |
+| 2.2. Cách thức thông báo, cung cấp thông tin                                |   4 |
+| 2.2.1. Cách thức chủ động thông báo, cung cấp thông tin                     |   4 |
+| 2.2.2. Cách thức cung cấp thông tin khi có yêu cầu                          |   4 |
+| 2.3. Quy trình chủ động thông báo, cung cấp thông tin                       |   4 |
+| 2.3.1. Đối với thông tin có tính chất giới thiệu, quảng bá hình ảnh Công ty |   4 |
+| 2.3.2. Đối với thông tin thông báo, cung cấp có chỉ đích danh bên nhận      |   4 |
+| 2.4. Quy trình cung cấp thông tin khi nhận được yêu cầu                     |   4 |
+| 2.4.1. Tiếp nhận yêu cầu                                                    |   4 |
+| 2.4.2. Xử lý yêu cầu                                                        |   5 |
+| 2.4.3. Cung cấp thông tin                                                   |   5 |
+| 2.5. Hành vi cấm khi thông báo, cung cấp thông tin                          |   5 |
+| 2.6. Quản trị rủi ro                                                        |   5 |
+| 2.7. Quy định chung                                                         |   5 |
+
+## I. GIỚI THIỆU
+
+## 1.1. Mục đích
+
+Việc công bố và cung cấp thông tin kịp thời, chính xác luôn có ý nghĩa to lớn trong quá trình hoạt động của các doanh nghiệp. Đặc biệt, đối với một công ty đa quốc gia đang hoạt động chính trong lĩnh vực công nghệ thông tin như Công ty TNHH Sun Asterisk Việt Nam (Sau đây gọi là ' Sun Asterisk Việt Nam' hoặc 'Công ty' ) thì điều này lại càng trở nên quan trọng. Việc công bố và cung cấp thông tin không chỉ được áp dụng trong phạm vi nội bộ công ty mà cũng cần phải được thực hiện một cách bài bản ở cả phạm vi ngoài doanh nghiệp. Như vậy, đòi hỏi phải xây dựng một quy trình hướng dẫn cách thức thực hiện để vừa công bố, cung cấp đầy đủ thông tin, vừa đảm bảo tính bảo mật trong quá trình kinh doanh.
+
+## 1.2. Đối tượng áp dụng
+
+Việc công bố và cung cấp thông tin phạm vi ngoài doanh nghiệp sẽ được thực hiện trong một số trường hợp riêng biệt và với mỗi trường hợp lại hướng đến những đối tượng khác nhau.
+
+## Cụ thể:
+
+- ● Trường hợp 1: Công ty chủ động thông báo, cung cấp thông tin. Đây là trường hợp có sự thay đổi đáng kể trong cơ cấu tổ chức, quy mô và lĩnh vực hoạt động của Công ty. Trong thời gian phù hợp, Công ty sẽ tiến hành việc cung cấp thông tin tới Chủ đầu tư, khách hàng hiện hữu, khách hàng tiềm năng, các nhà cung cấp và các cơ quan nhà nước có thẩm quyền liên quan (đối với các thông tin bắt buộc phải thông báo cho cơ quan nhà nước có thẩm quyền).
+- ● Trường hợp 2: Cung cấp thông tin khi nhận được yêu cầu cung cấp thông tin từ cá nhân, tổ chức bên ngoài Công ty. Tất cả các cá nhân, tổ chức trong hoặc ngoài lãnh thổ Việt Nam, liên quan hoặc không liên quan đến hoạt động của Công ty đều có thể gửi yêu cầu cung cấp thông tin. Công ty sẽ dựa vào nội dung yêu cầu để xem xét, quyết định việc cung cấp thông tin.
+
+## 1.3. Bộ phận phụ trách
+
+Ban Vận hành hoạt động nền tảng doanh nghiệp là bộ phận phụ trách chính, là đầu mối tiếp nhận và xử lý yêu cầu cung cấp thông tin cũng như thay mặt Công ty để thông báo hoặc hướng dẫn các bộ phận khác tiến hành thông báo thông tin tới các đối tượng được nêu tại Điều 2 Quy trình này. Ngoài ra, đối với các thông tin có thể công khai rộng rãi để giới thiệu hình ảnh Công ty sẽ do phòng Truyền thông doanh nghiệp phụ trách.
+
+## II. NỘI DUNG
+
+## 2.1. Tính trung thực khi thông báo, cung cấp thông tin
+
+Khi cung cấp thông tin tới các tổ chức, cá nhân ngoài doanh nghiệp, điều quan trọng cần lưu ý là phải cần đề cao và tuân thủ nghiêm ngặt tính xác thực của thông tin vì nó ảnh hưởng trực tiếp đến uy tín của Công ty. Không được thông báo, cung cấp thông tin sai sự thật, thông tin không chính thống dưới danh nghĩa Công ty.
+
+## 2.2. Cách thức thông báo, cung cấp thông tin
+
+## 2.2.1. Cách thức chủ động thông báo, cung cấp thông tin
+
+Đối với những thông tin có tính chất giới thiệu, quảng bá hình ảnh Công ty: Thông báo rộng rãi thông qua các phương tiện thông tin đại chúng, các kênh thông tin như trang thông tin điện tử nội bộ, trang mạng xã hội chính thức của Công ty.
+
+Đối với những thông tin thông báo, cung cấp có chỉ đích danh bên nhận: Thông báo bằng văn bản do người đại diện có thẩm quyền của Công ty ký và đóng dấu.
+
+## 2.2.2. Cách thức cung cấp thông tin khi có yêu cầu
+
+Sau khi tiếp nhận và xử lý nội dung yêu cầu, các thông tin phản hồi phải được trả lời bằng văn bản, email Công ty (gửi kèm cho Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp và những người có liên quan).
+
+## 2.3. Quy trình chủ động thông báo, cung cấp thông tin
+
+## 2.3.1. Đối với thông tin có tính chất giới thiệu, quảng bá hình ảnh Công ty
+
+- - Các thông tin liên quan đến hình ảnh Công ty chỉ được công khai trên các phương tiện truyền thông khi đã trở thành thông tin chính thức cuối cùng đã được Ban Giám đốc, Ban Vận hành hoạt động nền tảng doanh nghiệp thông báo rộng rãi trong nội bộ Công ty.
+- - Phòng Truyền thông doanh nghiệp sẽ biên soạn nội dung bài viết và đăng tải lên Trang thông tin điện tử nội bộ và trang mạng xã hội chính thức của Công ty.
+
+## 2.3.2. Đối với thông tin thông báo, cung cấp có chỉ đích danh bên nhận
+
+Đây là những thông tin liên quan trực tiếp và mật thiết tới hoạt động kinh doanh của Công ty như thay đổi tên công ty, thay đổi, bổ sung người đại diện theo pháp luật, thay đổi, bổ sung ngành nghề kinh doanh,v.v. Tùy vào từng nội dung và tính chất thông tin sẽ tiến hành gửi thông báo tới Chủ đầu tư, khách hàng, các nhà cung cấp dịch vụ và cơ quan nhà nước có thẩm quyền liên quan.
+
+Ban Vận hành hoạt động nền tảng doanh nghiệp sẽ xem xét và quyết định đối tượng nhận thông báo, sau đó hướng dẫn các bộ phận liên quan thực hiện. Ban Vận hành hoạt động nền tảng doanh nghiệp sẽ soạn thảo và ban hành mẫu thông báo, việc thông báo phải được thực hiện đồng nhất bởi mẫu chung này.
+
+## 2.4. Quy trình cung cấp thông tin khi nhận được yêu cầu
+
+## 2.4.1. Tiếp nhận yêu cầu
+
+Tất cả nhân viên, bộ phận trong Công ty khi nhận được bất kỳ yêu cầu nào đề nghị cung cấp thông tin từ cá nhân, tổ chức ngoài phạm vi Công ty đều phải ngay lập tức thông báo cho cấp trên trực tiếp và Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp. Người nhận được yêu cầu sẽ không thực hiện bất kỳ hành động nào cho đến khi nhận được sự chỉ đạo của Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp.
+
+Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp sẽ chỉ định người phụ trách tiếp nhận và xử lý yêu cầu (sau đây gọi là 'Người phụ trách xử lý' ) và chỉ chấp nhận xử lý những yêu cầu được gửi tới bằng văn bản, e-mail. Người phụ trách xử lý phải xác định được rõ nội dung và mục đích của yêu cầu cung cấp thông tin và báo cáo với Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp.
+
+## 2.4.2. Xử lý yêu cầu
+
+Trước khi cung cấp thông tin, Người phụ trách xử lý phải kiểm tra, xác minh mối quan hệ giữa Bên yêu cầu cung cấp thông tin (sau đây gọi là 'Bên yêu cầu' ) với Công ty và với thông tin yêu cầu cung cấp, sau đó phải đánh giá được mức độ quan trọng của thông tin được yêu cầu cung cấp và rủi ro khi cung cấp thông tin. Người phụ trách xử lý sẽ không tiến hành xử lý nếu thông tin được yêu cầu là thông tin bảo mật như thông tin về vốn, thông tin về khách hàng, dự án, hợp đồng, những thông tin có rủi ro gây thiệt hại cho Công ty v.v. và Bên yêu cầu không liên quan đến nội dung thông tin yêu cầu; hoặc thông tin không liên quan đến hoạt động của Công ty.
+
+Trong trường hợp cần thiết, Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp phải báo cáo với Ban Giám đốc để được chỉ đạo cụ thể.
+
+## 2.4.3. Cung cấp thông tin
+
+Sau khi xác định được nội dung thông tin cần cung cấp, Người phụ trách xử lý phải báo cáo với Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp. Người được Trưởng ban quản lý doanh nghiệp chỉ định cung cấp thông tin cho Bên yêu cầu (sau đây gọi là 'Người cung cấp thông tin' ) sẽ thực hiện việc cung cấp thông tin sau khi đã phê duyệt như nội dung Người phụ trách xử lý đã xác định. Ngoài ra, Người cung cấp thông tin không được cung cấp bất kỳ nội dung nào khác.
+
+Trong quá trình cung cấp thông tin, nếu có bất kỳ phản hồi nào từ Bên yêu cầu Người cung cấp thông tin không được tự ý trả lời mà phải thông báo cho Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp và Người phụ trách xử lý.
+
+Người cung cấp thông tin phải chịu trách nhiệm trước Ban Giám đốc, Trưởng Ban Vận hành hoạt động nền tảng doanh nghiệp nếu tự ý cung cấp thông tin.
+
+## 2.5. Hành vi cấm khi thông báo, cung cấp thông tin
+
+- ● Thông báo, cung cấp thông tin giả mạo, không đúng sự thật, thông tin chưa chính thức;
+- ● Tự ý xử lý và cung cấp thông tin;
+- ● Báo cáo khi chưa tìm hiểu đầy đủ thông tin về nội dung yêu cầu cung cấp và Bên yêu cầu cung cấp;
+- ● Cung cấp thông tin bị cấm, hạn chế cung cấp.
+
+## 2.6. Quản trị rủi ro
+
+Tuân thủ các quy định chung về quản trị rủi ro: https://sal.vn/cgz8wl
+
+Triệt để tuân thủ và chủ động trong việc báo cáo sự cố, phát hiện rủi ro tiềm tàng trong quá trình thực hiện công việc theo đúng quy định được ban hành.
+
+## 2.7. Quy định chung
+
+Khi có bất kỳ sự thay đổi nào liên quan đến nội dung Quy Trình này thì sẽ thực hiện theo 'Quy trình quản lý các quy trình'
+
+Quy Trình này có hiệu lực từ ngày 30/09/2022 đến ngày có văn bản khác thay thế.
